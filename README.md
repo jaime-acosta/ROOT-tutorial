@@ -1,2 +1,2 @@
 # ROOT-tutorial
-Introductory tutorial to ROOT for beginners
+Introductory ROOT tutorial for beginners
