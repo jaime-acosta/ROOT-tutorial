@@ -1,2 +1,4 @@
 # ROOT-tutorial
-Introductory ROOT tutorial for beginners
+Introductory C++/ROOT/Make tutorial for beginners
+
+How to use:
