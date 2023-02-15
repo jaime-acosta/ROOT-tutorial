@@ -13,4 +13,4 @@ The custom class to write and read the tree is placed apart as a header. The Mak
 3. Compile the code: `make`
 4. Execute it: `./bin/Analyze`
  
-Please note that you can replace the relative paths in `Analyze.cc` with absolute paths and add the line `export PATH=/path/to/root-tutorial/bin:$PATH` to your `.bashrc` in order to execute the program from whichever directory (`Analyze`). Furthermore, one could make use of the `argc` and `argv` variables or `CommandLineInterface.cc` to specify the input and output files as arguments to the command.
+Please note that you can replace the relative paths in `Analyze.cc` with absolute paths and add the line `export PATH=/path/to/root-tutorial/bin:$PATH` to your `.bashrc` in order to execute the program from whichever directory (`Analyze`). Furthermore, one could make use of the `argc` and `argv` variables or some `CommandLineInterface.cc` to specify the input and output files as arguments to the command.
