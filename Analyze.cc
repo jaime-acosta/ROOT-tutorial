@@ -9,7 +9,7 @@
    an array of HPGe semiconductor detectors.
 
    write_tree() takes TIMESTAMP, DETECTOR ID and E_RAW information from data.txt and
-   writes a data tree with event-by-event information into 60Co .root.
+   writes a data tree with event-by-event information into 60Co.root.
 
    raw_histos() reads that tree and writes uncalibrated energy spectra for each detector
    into a file called histos.root.
