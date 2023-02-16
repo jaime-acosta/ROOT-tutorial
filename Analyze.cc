@@ -18,7 +18,7 @@
    parameters for each detector, and then creates calibrated histograms. It also shows 
    how to apply some conditions when filling the histograms for analyzing the data.
 
-   draw() draws a TCanvas with two TPads, with a legend, a text and some histograms in it
+   draw() draws a TCanvas with two TPads, with a legend, a text and some histograms on it
 
  */
 
